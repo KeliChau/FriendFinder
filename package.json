@@ -1,0 +1,24 @@
+{
+  "name": "FriendFinder",
+  "version": "1.0.0",
+  "description": "Friend Finder is a dating compatibility application for users to fill out a form. Based on the result of their answers, Friend Finder will find the best match for the user. The app will be built using Express.js, Node.js, and jQuery and deployed on Heroku.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/KeliChau/FriendFinder.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/KeliChau/FriendFinder/issues"
+  },
+  "homepage": "https://github.com/KeliChau/FriendFinder#readme",
+  "dependencies": {
+    "request": "^2.83.0"
+  }
+}
