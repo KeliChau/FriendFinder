@@ -6,7 +6,7 @@ Friend Finder is a dating compatibility application for users to fill out a form
 Friend Finder App based on the Friend Finder demo found here: https://friend-finder-fsf.herokuapp.com/
 
 ## Acknowledgments
-+ Heroku for deployment
++ Heroku 
 + Bootstrap
 + Font Awesome
 + Google Fonts
