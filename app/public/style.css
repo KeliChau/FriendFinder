@@ -20,3 +20,15 @@
 	text-transform: uppercase;
 }
 
+.subtitle{
+	text-align: center;
+	font-family: "Comfortaa";
+	font-size: 200%;
+	font-weight: bold;
+}
+
+.survey-container{
+	width: 50%;
+	margin-left: 25%;
+	text-align: center;
+}
